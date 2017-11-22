@@ -1,8 +1,10 @@
 ### Leia atentamente as instruções ###
 
-Para desenvolver as questões abaixo, crie um projeto em seu gitub pessoal, desenvolva todo o projeto e ao término envie o link do repositorio para o e-mail: xxx@easytolearn.com.br . Informe o assunto Vaga - Desenvolvimento WEB - Nome Completo.
+Para desenvolver as questões abaixo, crie um projeto em seu GITHUB pessoal, desenvolva todo o projeto e ao término envie o link do repositorio para o e-mail: **fernandomendes@fimg.com.br** 
 
-Os links deverão ser enviados até as xx:xx horas do dia xx/xx/xxxx
+Informe o assunto: **Vaga Desenvolvedor WEB | Nome Completo**
+
+Os links deverão ser enviados até as 23h59m do dia 01/12/2017.
 
 Boa sorte!
 
